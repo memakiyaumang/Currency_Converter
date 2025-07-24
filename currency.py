@@ -6,7 +6,7 @@ import requests
 def get_rates():
     url = "https://api.apilayer.com/exchangerates_data/latest?base=USD"
     headers = {
-        "apikey": "LbGrH6ewsNwV51ahffOUGp4LbOAukecx"
+        "apikey": "Your API Key"
     }
 
     try:
